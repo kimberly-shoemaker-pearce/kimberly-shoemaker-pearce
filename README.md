@@ -1,5 +1,5 @@
 # Kimberly Shoemaker Pearce  
-**Architect of the AI-Ready Level 4/5 Framework**
+**Architect of the AI-Ready Levels 4/5 Process Documentation Framework**
 
 I design frameworks that help organizations capture, write, and store business process documentation using Microsoft 365 tools. My focus is on enabling clarity, repeatability, and readiness for AI adoption through well-structured process narratives and work instructions.
 
