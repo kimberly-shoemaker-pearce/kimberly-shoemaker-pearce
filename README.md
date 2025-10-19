@@ -14,4 +14,5 @@ I design frameworks that help organizations capture, write, and store business p
 - AI-Ready Process Enablement  
 
 ### Connect
-[LinkedIn](https://www.linkedin.com/in/kimberlydenisepearce)
+For collaboration or inquiries, contact me directly:  
+[kimberly.shoemaker.pearce@gmail.com](mailto:kimberly.shoemaker.pearce@gmail.com)
