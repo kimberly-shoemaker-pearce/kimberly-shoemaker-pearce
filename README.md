@@ -1,16 +1,17 @@
-## Hi there 👋
+# Kimberly Shoemaker Pearce  
+**Architect of the AI-Ready Level 4/5 Framework**
 
-<!--
-**kimberly-shoemaker-pearce/kimberly-shoemaker-pearce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I design frameworks that help organizations capture, write, and store business process documentation using Microsoft 365 tools. My focus is on enabling clarity, repeatability, and readiness for AI adoption through well-structured process narratives and work instructions.
 
-Here are some ideas to get you started:
+### Featured Work
+- [AI-Ready Level 4/5 Process Documentation Framework](https://github.com/kimberly-shoemaker-pearce/ai-ready-level-4-5-framework)  
+  Framework for documenting Level 4 (Process Narratives) and Level 5 (Work Instructions) using Teams, Copilot, and SharePoint.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Areas of Expertise
+- Process Documentation Architecture  
+- Knowledge Management Systems  
+- Business Process Design  
+- AI-Ready Process Enablement  
+
+### Connect
+[LinkedIn](https://www.linkedin.com/in/kimberlydenisepearce)
