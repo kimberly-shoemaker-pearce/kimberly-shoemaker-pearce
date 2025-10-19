@@ -16,5 +16,5 @@ I design frameworks that help organizations capture, write, and store business p
 - Business Systems Analysis
 
 ### Connect
-For collaboration or inquiries, contact me directly:  
-[kimberly.shoemaker.pearce@gmail.com](mailto:kimberly.shoemaker.pearce@gmail.com)
+Email: For collaboration or inquiries, contact me directly:  [kimberly.shoemaker.pearce@gmail.com](mailto:kimberly.shoemaker.pearce@gmail.com)<br>
+Linked In: [linkedin.com/in/kimberlydenisepearce](https://www.linkedin.com/in/kimberlydenisepearce)
