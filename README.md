@@ -13,6 +13,7 @@ I design frameworks that help organizations capture, write, and store business p
 - Business Process Design  
 - AI-Ready Process Enablement
 - Business Process Analysis
+- Business Systems Analysis
 
 ### Connect
 For collaboration or inquiries, contact me directly:  
